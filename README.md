@@ -1,6 +1,7 @@
 # foodstop
 
 ## Steps to follow:
+-Instructions for API in backend part
 
 ### Employee operations:
 1. Add food category (Add category like Snacks, Desserts etc.)
